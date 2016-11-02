@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">AndroidFanny</string>
+    <string name="app_test">测试ButterKnife</string>
+    <string name="no_network_connection_toast">网络连接不可用</string>
+    <string name="app_test_db">测试ORM功能</string>
+    <string name="app_db_query">查询数据库</string>
+    <string name="app_db_save">保存</string>
+
+
+    <string name="progress_loading">加载中，请稍候</string>
+    <string name="progress_load_error">加载失败，点击屏幕刷新</string>
+    <string name="progress_load_no_data">暂无数据</string>
+
+</resources>
